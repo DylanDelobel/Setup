@@ -1,3 +1,7 @@
+# Easy one, great guide
+
+[https://github.com/linusdan/mysqlcompiled](URL)
+
 # Install mysql5.6 on ArchLinux
 
 Add custom repository : 
